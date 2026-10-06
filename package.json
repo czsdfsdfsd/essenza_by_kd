@@ -1,0 +1,5 @@
+{
+  "name": "essenza-by-kd",
+  "private": true,
+  "dependencies": { "@netlify/blobs": "^9.0.0" }
+}
